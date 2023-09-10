@@ -1,0 +1,7 @@
+Equipe: Carolina Ferreira, Mateus Caçabuena, Paola Lopes
+
+Repositório: github.com/matcacabuena/T1---Config.-de-Software
+
+Desafio do BeeCrowd realizado: www.beecrowd.com.br/judge/en/problems/view/1028
+
+Apresentação do Trabalho: https://youtu.be/Qs1M0wnIUDE

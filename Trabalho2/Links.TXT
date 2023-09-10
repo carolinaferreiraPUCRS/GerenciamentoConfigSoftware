@@ -1,0 +1,5 @@
+Equipe: Carolina Ferreira, Felipe Freitas, Lucas Wolschick, Luiza Heller e Mateus Caçabuena
+
+Tema: GitFlow
+
+Apresentação: https://www.youtube.com/watch?v=xDyr6Qs2yyQ&ab_channel=FelipeFreitasSilva
